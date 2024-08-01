@@ -1,0 +1,30 @@
+Parse the following resume and extract the details in the following JSON format:
+
+{
+  "personal_information": {
+    "name": "",
+    "email": "",
+    "phone": "",
+  },
+  "education": [
+    {
+      "institution": "",
+      "degree": "",
+      "branch": "",
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "",
+      "job_title": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": ""
+    }
+  ],
+  "skills": [""],
+  "certifications": [""],
+  "achievements" : ["]
+  }
